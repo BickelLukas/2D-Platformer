@@ -1,0 +1,1181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>font\font.spritefont</Source>
+      <Name>font\font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\font\font.xnb</Output>
+      <Time>2015-09-24T09:37:31+02:00</Time>
+    </Item>
+    <Item>
+      <Source>font\boldFont.spritefont</Source>
+      <Name>font\boldFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\font\boldFont.xnb</Output>
+      <Time>2014-12-02T16:00:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\btnSave.png</Source>
+      <Name>art\btnSave</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\btnSave.xnb</Output>
+      <Time>2014-11-15T21:19:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\btnSaveMO.png</Source>
+      <Name>art\btnSaveMO</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\btnSaveMO.xnb</Output>
+      <Time>2014-11-15T21:19:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\btnImport.png</Source>
+      <Name>art\btnImport</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\btnImport.xnb</Output>
+      <Time>2014-11-15T21:20:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\btnImportMO.png</Source>
+      <Name>art\btnImportMO</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\btnImportMO.xnb</Output>
+      <Time>2014-11-15T21:20:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\level\block.png</Source>
+      <Name>art\level\block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\block.xnb</Output>
+      <Time>2014-11-18T11:10:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\character\front.png</Source>
+      <Name>art\character\front</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\front.xnb</Output>
+      <Time>2014-11-16T10:58:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\level\spikes.png</Source>
+      <Name>art\level\spikes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\spikes.xnb</Output>
+      <Time>2014-11-17T23:00:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\level\grassCenter.png</Source>
+      <Name>art\level\grassCenter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\grassCenter.xnb</Output>
+      <Time>2014-11-18T11:35:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\level\grassMid.png</Source>
+      <Name>art\level\grassMid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\grassMid.xnb</Output>
+      <Time>2014-11-18T11:35:16+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\level\sandMid.png</Source>
+      <Name>art\level\sandMid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\sandMid.xnb</Output>
+      <Time>2014-11-18T11:37:25+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\level\sandCenter.png</Source>
+      <Name>art\level\sandCenter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\sandCenter.xnb</Output>
+      <Time>2014-11-18T11:37:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\character\walkRight.png</Source>
+      <Name>art\character\walkRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\walkRight.xnb</Output>
+      <Time>2014-11-18T15:27:51+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\character\p0_spritesheet.png</Source>
+      <Name>art\character\p0_spritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\p0_spritesheet.xnb</Output>
+      <Time>2015-06-29T07:36:12+02:00</Time>
+    </Item>
+    <Item>
+      <Source>art\level\grassCliffLeft.png</Source>
+      <Name>art\level\grassCliffLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\grassCliffLeft.xnb</Output>
+      <Time>2014-11-18T16:42:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\level\sandCliffLeft.png</Source>
+      <Name>art\level\sandCliffLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\sandCliffLeft.xnb</Output>
+      <Time>2014-11-18T16:47:15+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\level\liquidWaterTop_mid.png</Source>
+      <Name>art\level\liquidWaterTop_mid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\liquidWaterTop_mid.xnb</Output>
+      <Time>2014-11-18T17:17:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\level\liquidWater.png</Source>
+      <Name>art\level\liquidWater</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\liquidWater.xnb</Output>
+      <Time>2014-11-18T17:17:25+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\level\sandCliffRight.png</Source>
+      <Name>art\level\sandCliffRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\sandCliffRight.xnb</Output>
+      <Time>2014-11-18T17:26:11+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\level\grassCliffRight.png</Source>
+      <Name>art\level\grassCliffRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\grassCliffRight.xnb</Output>
+      <Time>2014-11-18T17:26:19+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\character\p0_spritesheet_left.png</Source>
+      <Name>art\character\p0_spritesheet_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\p0_spritesheet_left.xnb</Output>
+      <Time>2015-06-29T07:38:03+02:00</Time>
+    </Item>
+    <Item>
+      <Source>art\level\stoneCliffLeft.png</Source>
+      <Name>art\level\stoneCliffLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\stoneCliffLeft.xnb</Output>
+      <Time>2014-11-18T19:26:25+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\level\stoneCliffRight.png</Source>
+      <Name>art\level\stoneCliffRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\stoneCliffRight.xnb</Output>
+      <Time>2014-11-18T19:26:27+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\level\stoneMid.png</Source>
+      <Name>art\level\stoneMid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\stoneMid.xnb</Output>
+      <Time>2014-11-18T19:26:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\level\stoneCenter.png</Source>
+      <Name>art\level\stoneCenter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\stoneCenter.xnb</Output>
+      <Time>2014-11-18T19:26:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\level\sandCenter_rounded.png</Source>
+      <Name>art\level\sandCenter_rounded</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\sandCenter_rounded.xnb</Output>
+      <Time>2014-11-18T19:27:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\level\signExit.png</Source>
+      <Name>art\level\signExit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\signExit.xnb</Output>
+      <Time>2014-11-18T19:33:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\level\signLeft.png</Source>
+      <Name>art\level\signLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\signLeft.xnb</Output>
+      <Time>2014-11-18T19:33:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\level\signRight.png</Source>
+      <Name>art\level\signRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\signRight.xnb</Output>
+      <Time>2014-11-18T19:33:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\character\p1_spritesheet.png</Source>
+      <Name>art\character\p1_spritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\p1_spritesheet.xnb</Output>
+      <Time>2015-06-29T07:40:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>art\character\p1_spritesheet_left.png</Source>
+      <Name>art\character\p1_spritesheet_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\p1_spritesheet_left.xnb</Output>
+      <Time>2015-06-29T07:41:41+02:00</Time>
+    </Item>
+    <Item>
+      <Source>art\enemies\fish\left\dead.png</Source>
+      <Name>art\enemies\fish\left\dead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fish\left\dead.xnb</Output>
+      <Time>2014-11-29T23:07:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\enemies\fish\left\anim1.png</Source>
+      <Name>art\enemies\fish\left\anim1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fish\left\anim1.xnb</Output>
+      <Time>2014-11-29T23:07:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\enemies\fish\left\anim2.png</Source>
+      <Name>art\enemies\fish\left\anim2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fish\left\anim2.xnb</Output>
+      <Time>2014-11-29T23:07:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\enemies\fish\right\dead.png</Source>
+      <Name>art\enemies\fish\right\dead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fish\right\dead.xnb</Output>
+      <Time>2014-11-29T23:08:25+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\enemies\fish\right\anim1.png</Source>
+      <Name>art\enemies\fish\right\anim1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fish\right\anim1.xnb</Output>
+      <Time>2014-11-29T23:08:25+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\enemies\fly\left\dead.png</Source>
+      <Name>art\enemies\fly\left\dead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fly\left\dead.xnb</Output>
+      <Time>2014-11-29T23:14:33+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\enemies\fly\left\anim1.png</Source>
+      <Name>art\enemies\fly\left\anim1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fly\left\anim1.xnb</Output>
+      <Time>2014-11-29T23:14:33+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\enemies\fly\left\anim2.png</Source>
+      <Name>art\enemies\fly\left\anim2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fly\left\anim2.xnb</Output>
+      <Time>2014-11-29T23:14:33+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\enemies\fly\right\dead.png</Source>
+      <Name>art\enemies\fly\right\dead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fly\right\dead.xnb</Output>
+      <Time>2014-11-29T23:14:33+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\enemies\fly\right\anim1.png</Source>
+      <Name>art\enemies\fly\right\anim1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fly\right\anim1.xnb</Output>
+      <Time>2014-11-29T23:14:33+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\enemies\fly\right\anim2.png</Source>
+      <Name>art\enemies\fly\right\anim2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fly\right\anim2.xnb</Output>
+      <Time>2014-11-29T23:14:33+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\enemies\slime\right\dead.png</Source>
+      <Name>art\enemies\slime\right\dead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\slime\right\dead.xnb</Output>
+      <Time>2014-11-29T23:19:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\enemies\slime\right\anim1.png</Source>
+      <Name>art\enemies\slime\right\anim1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\slime\right\anim1.xnb</Output>
+      <Time>2014-11-29T23:19:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\enemies\slime\right\anim2.png</Source>
+      <Name>art\enemies\slime\right\anim2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\slime\right\anim2.xnb</Output>
+      <Time>2014-11-29T23:19:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\enemies\slime\left\dead.png</Source>
+      <Name>art\enemies\slime\left\dead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\slime\left\dead.xnb</Output>
+      <Time>2014-11-29T23:19:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\enemies\slime\left\anim1.png</Source>
+      <Name>art\enemies\slime\left\anim1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\slime\left\anim1.xnb</Output>
+      <Time>2014-11-29T23:19:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\enemies\slime\left\anim2.png</Source>
+      <Name>art\enemies\slime\left\anim2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\slime\left\anim2.xnb</Output>
+      <Time>2014-11-29T23:19:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\enemies\fish\right\anim2.png</Source>
+      <Name>art\enemies\fish\right\anim2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fish\right\anim2.xnb</Output>
+      <Time>2014-11-29T23:09:51+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\character\hud_p0.png</Source>
+      <Name>art\character\hud_p0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\hud_p0.xnb</Output>
+      <Time>2014-11-28T22:54:35+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\character\hud_p1.png</Source>
+      <Name>art\character\hud_p1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\hud_p1.xnb</Output>
+      <Time>2014-11-28T22:54:35+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\level\springboardDown.png</Source>
+      <Name>art\level\springboardDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\springboardDown.xnb</Output>
+      <Time>2014-11-25T18:53:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\level\springboardUp.png</Source>
+      <Name>art\level\springboardUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\springboardUp.xnb</Output>
+      <Time>2014-11-21T11:32:45+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\rect.png</Source>
+      <Name>art\rect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\rect.xnb</Output>
+      <Time>2014-11-26T09:53:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\cloud.png</Source>
+      <Name>art\cloud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\cloud.xnb</Output>
+      <Time>2014-11-27T12:17:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\items\coin.png</Source>
+      <Name>art\items\coin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\items\coin.xnb</Output>
+      <Time>2014-11-28T21:24:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\items\coin01.png</Source>
+      <Name>art\items\coin01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\items\coin01.xnb</Output>
+      <Time>2014-11-28T21:44:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\items\coin02.png</Source>
+      <Name>art\items\coin02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\items\coin02.xnb</Output>
+      <Time>2014-11-28T21:44:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\items\coin03.png</Source>
+      <Name>art\items\coin03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\items\coin03.xnb</Output>
+      <Time>2014-11-28T21:44:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\items\coin04.png</Source>
+      <Name>art\items\coin04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\items\coin04.xnb</Output>
+      <Time>2014-11-28T21:44:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\HUD\coin.png</Source>
+      <Name>art\HUD\coin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\coin.xnb</Output>
+      <Time>2014-11-28T22:16:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\HUD\heartEmpty.png</Source>
+      <Name>art\HUD\heartEmpty</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\heartEmpty.xnb</Output>
+      <Time>2014-11-28T22:04:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\HUD\heartFull.png</Source>
+      <Name>art\HUD\heartFull</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\heartFull.xnb</Output>
+      <Time>2014-11-28T22:04:47+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\HUD\heartHalf.png</Source>
+      <Name>art\HUD\heartHalf</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\heartHalf.xnb</Output>
+      <Time>2014-11-28T22:04:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\HUD\heartHalf_right.png</Source>
+      <Name>art\HUD\heartHalf_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\heartHalf_right.xnb</Output>
+      <Time>2014-11-28T22:04:53+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\HUD\0.png</Source>
+      <Name>art\HUD\0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\0.xnb</Output>
+      <Time>2014-11-28T22:32:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\HUD\1.png</Source>
+      <Name>art\HUD\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\1.xnb</Output>
+      <Time>2014-11-28T22:32:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\HUD\2.png</Source>
+      <Name>art\HUD\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\2.xnb</Output>
+      <Time>2014-11-28T22:32:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\HUD\3.png</Source>
+      <Name>art\HUD\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\3.xnb</Output>
+      <Time>2014-11-28T22:32:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\HUD\4.png</Source>
+      <Name>art\HUD\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\4.xnb</Output>
+      <Time>2014-11-28T22:32:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\HUD\5.png</Source>
+      <Name>art\HUD\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\5.xnb</Output>
+      <Time>2014-11-28T22:32:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\HUD\6.png</Source>
+      <Name>art\HUD\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\6.xnb</Output>
+      <Time>2014-11-28T22:32:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\HUD\7.png</Source>
+      <Name>art\HUD\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\7.xnb</Output>
+      <Time>2014-11-28T22:32:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\HUD\8.png</Source>
+      <Name>art\HUD\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\8.xnb</Output>
+      <Time>2014-11-28T22:32:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\HUD\9.png</Source>
+      <Name>art\HUD\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\9.xnb</Output>
+      <Time>2014-11-28T22:32:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\level\boxCoinAlt.png</Source>
+      <Name>art\level\boxCoinAlt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\boxCoinAlt.xnb</Output>
+      <Time>2014-11-29T16:12:33+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\level\boxCoinAlt_disabled.png</Source>
+      <Name>art\level\boxCoinAlt_disabled</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\boxCoinAlt_disabled.xnb</Output>
+      <Time>2014-11-29T16:12:33+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\level\boxEmpty.png</Source>
+      <Name>art\level\boxEmpty</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\boxEmpty.xnb</Output>
+      <Time>2014-11-29T16:12:33+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\level\boxItemAlt.png</Source>
+      <Name>art\level\boxItemAlt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\boxItemAlt.xnb</Output>
+      <Time>2014-11-29T16:12:33+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\level\boxItemAlt_disabled.png</Source>
+      <Name>art\level\boxItemAlt_disabled</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\boxItemAlt_disabled.xnb</Output>
+      <Time>2014-11-29T16:12:33+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\level\bush.png</Source>
+      <Name>art\level\bush</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\bush.xnb</Output>
+      <Time>2014-11-29T22:22:27+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\level\rock.png</Source>
+      <Name>art\level\rock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\rock.xnb</Output>
+      <Time>2014-11-29T22:22:37+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\level\plant.png</Source>
+      <Name>art\level\plant</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\plant.xnb</Output>
+      <Time>2014-11-29T22:22:41+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\bg.png</Source>
+      <Name>art\bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\bg.xnb</Output>
+      <Time>2014-11-29T22:35:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\enemies\spinner\left\anim1.png</Source>
+      <Name>art\enemies\spinner\left\anim1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\spinner\left\anim1.xnb</Output>
+      <Time>2014-11-30T21:33:29+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\enemies\spinner\left\anim2.png</Source>
+      <Name>art\enemies\spinner\left\anim2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\spinner\left\anim2.xnb</Output>
+      <Time>2014-11-30T21:33:29+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\enemies\spinner\left\dead.png</Source>
+      <Name>art\enemies\spinner\left\dead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\spinner\left\dead.xnb</Output>
+      <Time>2014-11-30T21:33:29+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\enemies\spinner\right\anim1.png</Source>
+      <Name>art\enemies\spinner\right\anim1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\spinner\right\anim1.xnb</Output>
+      <Time>2014-11-30T21:33:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\enemies\spinner\right\anim2.png</Source>
+      <Name>art\enemies\spinner\right\anim2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\spinner\right\anim2.xnb</Output>
+      <Time>2014-11-30T21:33:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\enemies\spinner\right\dead.png</Source>
+      <Name>art\enemies\spinner\right\dead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\spinner\right\dead.xnb</Output>
+      <Time>2014-11-30T21:33:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\Logo.png</Source>
+      <Name>art\Logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\Logo.xnb</Output>
+      <Time>2014-12-02T11:24:09+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\kenney.png</Source>
+      <Name>art\kenney</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\kenney.xnb</Output>
+      <Time>2014-12-02T09:23:35+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\level\spikes_alt.png</Source>
+      <Name>art\level\spikes_alt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\spikes_alt.xnb</Output>
+      <Time>2014-12-02T09:36:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\UI\bg.png</Source>
+      <Name>art\UI\bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\bg.xnb</Output>
+      <Time>2014-12-02T20:55:09+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\UI\btnBack.png</Source>
+      <Name>art\UI\btnBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\btnBack.xnb</Output>
+      <Time>2015-11-11T15:40:33+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\UI\btnCredits.png</Source>
+      <Name>art\UI\btnCredits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\btnCredits.xnb</Output>
+      <Time>2014-12-02T20:42:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\UI\btnCredits_Click.png</Source>
+      <Name>art\UI\btnCredits_Click</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\btnCredits_Click.xnb</Output>
+      <Time>2014-12-02T20:42:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\UI\btnEditor.png</Source>
+      <Name>art\UI\btnEditor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\btnEditor.xnb</Output>
+      <Time>2014-12-02T20:42:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\UI\btnEditor_Click.png</Source>
+      <Name>art\UI\btnEditor_Click</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\btnEditor_Click.xnb</Output>
+      <Time>2014-12-02T20:42:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\UI\btnStart.png</Source>
+      <Name>art\UI\btnStart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\btnStart.xnb</Output>
+      <Time>2014-12-02T20:56:19+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\UI\btnStart_Click.png</Source>
+      <Name>art\UI\btnStart_Click</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\btnStart_Click.xnb</Output>
+      <Time>2014-12-02T20:56:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\cursor.png</Source>
+      <Name>art\cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\cursor.xnb</Output>
+      <Time>2014-12-02T20:32:49+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\UI\level\ArrowLeft.png</Source>
+      <Name>art\UI\level\ArrowLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\level\ArrowLeft.xnb</Output>
+      <Time>2014-12-02T21:35:15+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\UI\level\ArrowRight.png</Source>
+      <Name>art\UI\level\ArrowRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\level\ArrowRight.xnb</Output>
+      <Time>2014-12-02T21:35:15+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\UI\level\btnBg.png</Source>
+      <Name>art\UI\level\btnBg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\level\btnBg.xnb</Output>
+      <Time>2014-12-02T21:35:15+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\UI\level\StarActive.png</Source>
+      <Name>art\UI\level\StarActive</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\level\StarActive.xnb</Output>
+      <Time>2014-12-02T21:35:15+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\UI\level\StarInactive.png</Source>
+      <Name>art\UI\level\StarInactive</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\level\StarInactive.xnb</Output>
+      <Time>2014-12-02T21:35:15+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\UI\level\bg.png</Source>
+      <Name>art\UI\level\bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\level\bg.xnb</Output>
+      <Time>2014-12-02T21:39:53+01:00</Time>
+    </Item>
+    <Item>
+      <Source>art\UI\Editor\btnBlocks.png</Source>
+      <Name>art\UI\Editor\btnBlocks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnBlocks.xnb</Output>
+      <Time>2015-06-26T22:24:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>art\UI\Editor\btnBlocks_Click.png</Source>
+      <Name>art\UI\Editor\btnBlocks_Click</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnBlocks_Click.xnb</Output>
+      <Time>2015-06-26T22:24:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>art\UI\Editor\btnDecor.png</Source>
+      <Name>art\UI\Editor\btnDecor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnDecor.xnb</Output>
+      <Time>2015-06-26T22:24:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>art\UI\Editor\btnDecor_Click.png</Source>
+      <Name>art\UI\Editor\btnDecor_Click</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnDecor_Click.xnb</Output>
+      <Time>2015-06-26T22:24:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>art\UI\Editor\btnDynamic.png</Source>
+      <Name>art\UI\Editor\btnDynamic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnDynamic.xnb</Output>
+      <Time>2015-06-26T22:24:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>art\UI\Editor\btnDynamic_Click.png</Source>
+      <Name>art\UI\Editor\btnDynamic_Click</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnDynamic_Click.xnb</Output>
+      <Time>2015-06-26T22:24:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>art\UI\Editor\btnEnemys.png</Source>
+      <Name>art\UI\Editor\btnEnemys</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnEnemys.xnb</Output>
+      <Time>2015-06-26T22:24:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>art\UI\Editor\btnEnemys_Click.png</Source>
+      <Name>art\UI\Editor\btnEnemys_Click</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnEnemys_Click.xnb</Output>
+      <Time>2015-06-26T22:24:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>art\UI\Editor\btnImport.png</Source>
+      <Name>art\UI\Editor\btnImport</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnImport.xnb</Output>
+      <Time>2015-06-26T22:24:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>art\UI\Editor\btnImport_Click.png</Source>
+      <Name>art\UI\Editor\btnImport_Click</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnImport_Click.xnb</Output>
+      <Time>2015-06-26T22:24:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>art\UI\Editor\btnNew.png</Source>
+      <Name>art\UI\Editor\btnNew</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnNew.xnb</Output>
+      <Time>2015-06-26T22:24:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>art\UI\Editor\btnNew_Click.png</Source>
+      <Name>art\UI\Editor\btnNew_Click</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnNew_Click.xnb</Output>
+      <Time>2015-06-26T22:24:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>art\UI\Editor\btnSave.png</Source>
+      <Name>art\UI\Editor\btnSave</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnSave.xnb</Output>
+      <Time>2015-06-26T22:24:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>art\UI\Editor\btnSave_Click.png</Source>
+      <Name>art\UI\Editor\btnSave_Click</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnSave_Click.xnb</Output>
+      <Time>2015-06-26T22:24:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>art\UI\Editor\selected.png</Source>
+      <Name>art\UI\Editor\selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\selected.xnb</Output>
+      <Time>2015-06-26T22:24:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>art\UI\Editor\panel.png</Source>
+      <Name>art\UI\Editor\panel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\panel.xnb</Output>
+      <Time>2015-06-26T22:27:27+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\coin.wav</Source>
+      <Name>sound\coin</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\sound\coin.xnb</Output>
+      <Time>2014-11-28T23:15:54+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{3648C519-0F39-481A-9755-6F84E9D75265}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformerContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-12-25T13:12:15.1509147+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

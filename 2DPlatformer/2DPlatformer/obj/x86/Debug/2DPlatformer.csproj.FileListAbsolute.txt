@@ -1,0 +1,464 @@
+C:\Users\Lukas\SkyDrive\Schule\3. Klasse\ANP\XNA\2DPlatformer\2DPlatformer\2DPlatformer\obj\x86\Debug\2DPlatformer.csprojResolveAssemblyReference.cache
+C:\Users\Lukas\SkyDrive\Schule\3. Klasse\ANP\XNA\2DPlatformer\2DPlatformer\2DPlatformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Lukas\SkyDrive\Schule\3. Klasse\ANP\XNA\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\2DPlatformer.exe
+C:\Users\Lukas\SkyDrive\Schule\3. Klasse\ANP\XNA\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\2DPlatformer.pdb
+C:\Users\Lukas\SkyDrive\Schule\3. Klasse\ANP\XNA\2DPlatformer\2DPlatformer\2DPlatformer\obj\x86\Debug\2DPlatformer.exe
+C:\Users\Lukas\SkyDrive\Schule\3. Klasse\ANP\XNA\2DPlatformer\2DPlatformer\2DPlatformer\obj\x86\Debug\2DPlatformer.pdb
+C:\Users\Lukas\OneDrive\Schule\3. Klasse\ANP\XNA\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\font.xnb
+C:\Users\Lukas\OneDrive\Schule\3. Klasse\ANP\XNA\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\boldFont.xnb
+C:\Users\Lukas\OneDrive\Schule\3. Klasse\ANP\XNA\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\2DPlatformer.exe
+C:\Users\Lukas\OneDrive\Schule\3. Klasse\ANP\XNA\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\2DPlatformer.pdb
+C:\Users\Lukas\OneDrive\Schule\3. Klasse\ANP\XNA\2DPlatformer\2DPlatformer\2DPlatformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Lukas\OneDrive\Schule\3. Klasse\ANP\XNA\2DPlatformer\2DPlatformer\2DPlatformer\obj\x86\Debug\2DPlatformer.exe
+C:\Users\Lukas\OneDrive\Schule\3. Klasse\ANP\XNA\2DPlatformer\2DPlatformer\2DPlatformer\obj\x86\Debug\2DPlatformer.pdb
+C:\Users\Lukas\OneDrive\Schule\3. Klasse\ANP\XNA\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\2DPlatformer.exe.CodeAnalysisLog.xml
+C:\Users\Lukas\OneDrive\Schule\3. Klasse\ANP\XNA\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\2DPlatformer.exe.lastcodeanalysissucceeded
+C:\Users\Lukas\SkyDrive\Schule\3. Klasse\ANP\XNA\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\font\font.xnb
+C:\Users\Lukas\SkyDrive\Schule\3. Klasse\ANP\XNA\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\font\boldFont.xnb
+C:\Users\Lukas\SkyDrive\Schule\3. Klasse\ANP\XNA\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\pointer.xnb
+C:\Users\Lukas\SkyDrive\Schule\3. Klasse\ANP\XNA\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\btnSave.xnb
+C:\Users\Lukas\SkyDrive\Schule\3. Klasse\ANP\XNA\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\btnSaveMO.xnb
+C:\Users\Lukas\SkyDrive\Schule\3. Klasse\ANP\XNA\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\btnImport.xnb
+C:\Users\Lukas\SkyDrive\Schule\3. Klasse\ANP\XNA\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\btnImportMO.xnb
+C:\Users\Lukas\SkyDrive\Schule\3. Klasse\ANP\XNA\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\ground.xnb
+C:\Users\Lukas\SkyDrive\Schule\3. Klasse\ANP\XNA\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\block.xnb
+C:\Users\Lukas\SkyDrive\Schule\3. Klasse\ANP\XNA\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\ground_cave.xnb
+C:\Users\Lukas\SkyDrive\Schule\3. Klasse\ANP\XNA\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\ground_dirt.xnb
+C:\Users\Lukas\SkyDrive\Schule\3. Klasse\ANP\XNA\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\ground_rock.xnb
+C:\Users\Lukas\SkyDrive\Schule\3. Klasse\ANP\XNA\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\ground_sand.xnb
+C:\Users\Lukas\SkyDrive\Schule\3. Klasse\ANP\XNA\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\front.xnb
+C:\Users\Lukas\SkyDrive\Schule\3. Klasse\ANP\XNA\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\spikes.xnb
+G:\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\font\font.xnb
+G:\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\font\boldFont.xnb
+G:\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\ground.xnb
+G:\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\pointer.xnb
+G:\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\btnSave.xnb
+G:\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\btnSaveMO.xnb
+G:\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\btnImport.xnb
+G:\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\btnImportMO.xnb
+G:\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\block.xnb
+G:\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\ground_cave.xnb
+G:\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\ground_dirt.xnb
+G:\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\ground_rock.xnb
+G:\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\ground_sand.xnb
+G:\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\front.xnb
+G:\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\spikes.xnb
+G:\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\2DPlatformer.exe
+G:\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\2DPlatformer.pdb
+G:\2DPlatformer\2DPlatformer\2DPlatformer\obj\x86\Debug\2DPlatformer.csprojResolveAssemblyReference.cache
+G:\2DPlatformer\2DPlatformer\2DPlatformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\2DPlatformer\2DPlatformer\2DPlatformer\obj\x86\Debug\2DPlatformer.exe
+G:\2DPlatformer\2DPlatformer\2DPlatformer\obj\x86\Debug\2DPlatformer.pdb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\font\font.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\font\boldFont.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\pointer.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\btnSave.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\btnSaveMO.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\btnImport.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\btnImportMO.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\block.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\front.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\spikes.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\2DPlatformer.exe
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\2DPlatformer.pdb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\obj\x86\Debug\2DPlatformer.csprojResolveAssemblyReference.cache
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\obj\x86\Debug\2DPlatformer.exe
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\obj\x86\Debug\2DPlatformer.pdb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\grassCenter.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\grassMid.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\sandMid.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\sandCenter.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\walkRight.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\p1_spritesheet.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\p1_spritesheet.txt
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\grassCliffLeft.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\sandCliffLeft.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\liquidWaterTop_mid.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\liquidWater.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\sandCliffRight.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\grassCliffRight.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\p1_spritesheet_left.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\stoneCliffLeft.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\stoneCliffRight.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\stoneMid.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\stoneCenter.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\sandCenter_rounded.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\signExit.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\signLeft.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\signRight.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\p2_spritesheet.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\p2_spritesheet_left.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\p2_spritesheet.txt
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fish\left\dead.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fish\left\anim1.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fish\left\anim2.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fish\right\dead.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fish\right\anim1.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fish\right\anim2.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fly\left\dead.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fly\left\anim1.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fly\left\anim2.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fly\right\dead.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fly\right\anim1.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fly\right\anim2.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\slime\right\dead.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\slime\right\anim1.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\slime\right\anim2.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\slime\left\dead.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\slime\left\anim1.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\slime\left\anim2.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\hud_p1.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\hud_p2.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\springboardDown.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\springboardUp.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\hud_heartEmpty.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\hud_heartFull.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\hud_heartHalf.xnb
+C:\Users\Lukas\Desktop\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\hud_heartHalf_right.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\p1_spritesheet.txt
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\font\font.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\font\boldFont.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\btnSave.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\btnSaveMO.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\btnImport.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\btnImportMO.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\block.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\front.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\spikes.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\grassCenter.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\grassMid.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\sandMid.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\sandCenter.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\walkRight.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\p1_spritesheet.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\grassCliffLeft.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\sandCliffLeft.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\liquidWaterTop_mid.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\liquidWater.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\sandCliffRight.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\grassCliffRight.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\p1_spritesheet_left.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\stoneCliffLeft.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\stoneCliffRight.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\stoneMid.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\stoneCenter.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\sandCenter_rounded.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\signExit.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\signLeft.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\signRight.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fish\left\dead.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fish\left\anim1.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fish\left\anim2.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fish\right\dead.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fish\right\anim1.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fly\left\dead.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fly\left\anim1.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fly\left\anim2.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fly\right\dead.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fly\right\anim1.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fly\right\anim2.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\slime\right\dead.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\slime\right\anim1.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\slime\right\anim2.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\slime\left\dead.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\slime\left\anim1.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\slime\left\anim2.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fish\right\anim2.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\hud_p1.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\springboardDown.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\springboardUp.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\2DPlatformer.exe
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\2DPlatformer.pdb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\obj\x86\Debug\2DPlatformer.csprojResolveAssemblyReference.cache
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\obj\x86\Debug\2DPlatformer.exe
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\obj\x86\Debug\2DPlatformer.pdb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\rect.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\2DPlatformer.exe.manifest
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\2DPlatformer.application
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\obj\x86\Debug\2DPlatformer.exe.manifest
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\obj\x86\Debug\2DPlatformer.application
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\cloud.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\items\coin.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\items\coin01.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\items\coin02.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\items\coin03.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\items\coin04.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\heartEmpty.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\heartFull.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\heartHalf.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\heartHalf_right.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\coin.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\0.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\1.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\2.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\3.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\4.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\5.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\6.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\7.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\8.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\9.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\sound\coin.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\boxCoinAlt.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\boxCoinAlt_disabled.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\boxEmpty.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\boxItemAlt.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\boxItemAlt_disabled.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\bush.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\rock.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\plant.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\bg.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\btnSave.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\btnSaveMO.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\btnImport.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\btnImportMO.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\front.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\walkRight.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\p1_spritesheet.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\p1_spritesheet_left.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\hud_p1.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\rect.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\cloud.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\coin.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\heartEmpty.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\heartFull.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\heartHalf.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\heartHalf_right.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\0.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\1.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\2.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\3.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\4.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\5.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\6.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\7.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\8.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\9.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\bg.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\items\coin.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\items\coin01.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\items\coin02.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\items\coin03.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\items\coin04.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\spinner\left\anim1.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\spinner\left\anim2.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\spinner\left\dead.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\spinner\right\anim1.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\spinner\right\anim2.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\spinner\right\dead.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\Logo.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\kenney.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\spikes_alt.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\btnBack.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\btnCredits.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\btnCredits_Click.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\btnEditor.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\btnEditor_Click.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\btnStart.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\btnStart_Click.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\bg.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\cursor.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\level\ArrowLeft.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\level\ArrowRight.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\level\StarActive.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\level\StarInactive.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\level\btnBg.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\level\bg.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\p0_spritesheet.txt
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\p0_spritesheet.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\p0_spritesheet_left.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\hud_p0.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\p0_spritesheet.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\p0_spritesheet_left.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\hud_p0.png
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnBlocks.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnBlocks_Click.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnDecor.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnDecor_Click.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnDynamic.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnDynamic_Click.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnEnemys.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnEnemys_Click.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnImport.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnImport_Click.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnNew.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnNew_Click.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnSave.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnSave_Click.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\selected.xnb
+C:\Users\Lukas\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\panel.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\obj\x86\Debug\2DPlatformer.exe
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\obj\x86\Debug\2DPlatformer.pdb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\p0_spritesheet.txt
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\p1_spritesheet.txt
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\font\font.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\font\boldFont.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\btnSave.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\btnSaveMO.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\btnImport.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\btnImportMO.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\block.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\front.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\spikes.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\grassCenter.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\grassMid.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\sandMid.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\sandCenter.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\walkRight.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\p0_spritesheet.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\grassCliffLeft.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\sandCliffLeft.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\liquidWaterTop_mid.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\liquidWater.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\sandCliffRight.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\grassCliffRight.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\p0_spritesheet_left.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\stoneCliffLeft.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\stoneCliffRight.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\stoneMid.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\stoneCenter.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\sandCenter_rounded.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\signExit.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\signLeft.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\signRight.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\p1_spritesheet.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\p1_spritesheet_left.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fish\left\dead.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fish\left\anim1.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fish\left\anim2.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fish\right\dead.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fish\right\anim1.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fly\left\dead.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fly\left\anim1.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fly\left\anim2.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fly\right\dead.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fly\right\anim1.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fly\right\anim2.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\slime\right\dead.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\slime\right\anim1.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\slime\right\anim2.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\slime\left\dead.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\slime\left\anim1.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\slime\left\anim2.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\fish\right\anim2.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\hud_p0.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\hud_p1.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\springboardDown.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\springboardUp.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\rect.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\cloud.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\items\coin.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\items\coin01.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\items\coin02.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\items\coin03.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\items\coin04.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\coin.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\heartEmpty.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\heartFull.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\heartHalf.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\heartHalf_right.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\0.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\1.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\2.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\3.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\4.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\5.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\6.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\7.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\8.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\9.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\boxCoinAlt.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\boxCoinAlt_disabled.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\boxEmpty.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\boxItemAlt.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\boxItemAlt_disabled.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\bush.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\rock.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\plant.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\bg.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\spinner\left\anim1.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\spinner\left\anim2.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\spinner\left\dead.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\spinner\right\anim1.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\spinner\right\anim2.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\enemies\spinner\right\dead.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\Logo.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\kenney.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\level\spikes_alt.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\bg.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\btnBack.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\btnCredits.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\btnCredits_Click.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\btnEditor.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\btnEditor_Click.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\btnStart.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\btnStart_Click.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\cursor.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\level\ArrowLeft.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\level\ArrowRight.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\level\btnBg.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\level\StarActive.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\level\StarInactive.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\level\bg.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnBlocks.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnBlocks_Click.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnDecor.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnDecor_Click.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnDynamic.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnDynamic_Click.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnEnemys.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnEnemys_Click.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnImport.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnImport_Click.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnNew.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnNew_Click.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnSave.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\btnSave_Click.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\selected.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\UI\Editor\panel.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\sound\coin.xnb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\btnSave.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\btnSaveMO.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\btnImport.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\btnImportMO.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\front.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\walkRight.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\p0_spritesheet.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\p0_spritesheet_left.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\p1_spritesheet.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\p1_spritesheet_left.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\hud_p0.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\character\hud_p1.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\rect.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\cloud.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\coin.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\heartEmpty.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\heartFull.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\heartHalf.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\heartHalf_right.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\0.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\1.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\2.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\3.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\4.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\5.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\6.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\7.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\8.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\HUD\9.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\bg.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\items\coin.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\items\coin01.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\items\coin02.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\items\coin03.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\Content\art\items\coin04.png
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\2DPlatformer.exe.manifest
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\2DPlatformer.application
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\2DPlatformer.exe
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\bin\x86\Debug\2DPlatformer.pdb
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\obj\x86\Debug\2DPlatformer.csprojResolveAssemblyReference.cache
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\obj\x86\Debug\2DPlatformer.exe.manifest
+C:\Users\lbick\OneDrive\Plattformer Project\2DPlatformer\2DPlatformer\2DPlatformer\obj\x86\Debug\2DPlatformer.application
